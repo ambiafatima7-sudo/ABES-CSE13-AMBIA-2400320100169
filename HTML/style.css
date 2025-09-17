@@ -1,0 +1,15 @@
+h1{
+    width: 50%;
+    color: blue;
+    margin: 0%;
+}
+#box1{
+    background-color: blue;
+    height:20%;
+
+}
+#box2{
+    background-color: brown;
+    height:20%;
+    width: 30%;
+}
